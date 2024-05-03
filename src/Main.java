@@ -3,6 +3,9 @@ public class Main {
 
 
 
+     Car car = new Car();
+
+     car.go();
 
     }
 }
