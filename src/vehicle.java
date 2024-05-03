@@ -1,6 +1,6 @@
 public class vehicle {
 
-
+   int pedals;
     double speed;
 
     void go(){
